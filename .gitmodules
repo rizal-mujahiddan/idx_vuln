@@ -1,0 +1,9 @@
+[submodule "rapidscan"]
+	path = rapidscan
+	url = https://github.com/skavngr/rapidscan
+[submodule "RED_HAWK"]
+	path = RED_HAWK
+	url = https://github.com/Tuhinshubhra/RED_HAWK
+[submodule "AssassinGo"]
+	path = AssassinGo
+	url = https://github.com/AmyangXYZ/AssassinGo
